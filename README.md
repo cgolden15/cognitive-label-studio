@@ -1,4 +1,4 @@
-# Cognitive Label Studio
+# TCP Label Studio
 
 A web-based label designer and print server for thermal printers, supporting both **ZPL** (Zebra Programming Language) and **CPL** (Cognitive Programming Language) output. Design labels visually in the browser, preview the generated print commands, and send them directly to networked printers over TCP.
 
